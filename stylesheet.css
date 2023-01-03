@@ -20,7 +20,7 @@ body{
     padding-top: 180px;
     padding-bottom: 100px;
     color:white;
-    background-image: url(/img/Top.png);
+    background-image: url(./img/Top.png);
     background-size:cover ;
     text-align: center;
   }
