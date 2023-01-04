@@ -15,7 +15,11 @@
 
 @media (max-width: 670px) {
     .lesson{
-        width: 50%;
+        width: 100%;
+    }
+    
+    .body{
+        width:100%
     }
 
     footer {
