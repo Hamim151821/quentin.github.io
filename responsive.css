@@ -1,4 +1,9 @@
 @media all and (max-width: 500px) {
     .lessons{
         width: 100%
+    }
+    
+    .top-wrapper{
+        width: 100%
+    }
 }
